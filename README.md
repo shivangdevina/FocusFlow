@@ -2,6 +2,8 @@
 
 ## Project info
 
+###this is the under development version of this porject , to see the sable working version part of this project go to the main branch.
+
 This web app helps you in shcelduling , it is basically a project I was thinking of building about from like a 1/2 year or so , 
 **what is does**
 
